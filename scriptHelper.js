@@ -1,6 +1,6 @@
 // Write your helper functions here!
 //remove require statement:
-// require('isomorphic-fetch');
+require('isomorphic-fetch');
 
 //5-Update the mission destination with vital facts and figures about where the shuttle is headed:
 function addDestinationInfo(document, name, diameter, star, distance, moons, imageUrl) {
